@@ -12,7 +12,7 @@
 }
 .order-list-table .cell{
     padding: 10px 0;
-    color: #666;
+    color: #444;
     border-bottom: 1px solid #eee;
 }
 .order-list-table.header{
@@ -31,7 +31,7 @@
 }
 .order-list-table .order-info .order-total{
     font-weight: bold;
-    color: #c60023;
+    color: #46CC79;
 }
 .order-list-table .order-info .order-detail{
     float: right;

@@ -15,14 +15,14 @@
     cursor: pointer;
 }
 .address-item.active{
-    border: 3px dashed #c60023;
+    border: 3px dashed #46CC79;
 }
 .address-item:hover,
 .address-add:hover{
     background: #fafafa;
 }
 .address-item .address-title{
-    color: #666;
+    color: #444;
     height: 20px;
     line-height: 20px;
     overflow: hidden;
@@ -33,7 +33,7 @@
     height: 40px;
     line-height: 20px;
     overflow: hidden;
-    color: #666;
+    color: #444;
 }
 .address-item .address-opera{
     text-align: right;
@@ -102,7 +102,7 @@
 .submit-con .submit-total{
     margin-right: 20px;
     font-size: 18px;
-    color: #c60023;
+    color: #46CC79;
     font-weight: bold;
     vertical-align: middle;
 }
