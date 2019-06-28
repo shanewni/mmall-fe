@@ -22,7 +22,7 @@
     background: #fafafa;
 }
 .address-item .address-title{
-    color: #444;
+    color: #567;
     height: 20px;
     line-height: 20px;
     overflow: hidden;
@@ -33,7 +33,7 @@
     height: 40px;
     line-height: 20px;
     overflow: hidden;
-    color: #444;
+    color: #567;
 }
 .address-item .address-opera{
     text-align: right;
