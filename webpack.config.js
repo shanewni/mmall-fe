@@ -47,7 +47,7 @@ var config = {
     output: {
         path        : __dirname + '/dist/',
         // publicPath  : 'dev' === WEBPACK_ENV ? '/dist/' : '//s.libai5.com/mmall-fe/dist/',
-        publicPath  : 'dev' === WEBPACK_ENV ? '/dist/' : '//s.bjni48.natappfree.cc/mmall-fe/dist/',
+        publicPath  : 'dev' === WEBPACK_ENV ? '/dist/' : '//s.libai555.com/mmall-fe/dist/',
         filename    : 'js/[name].js'
     },
     externals : {
@@ -108,7 +108,7 @@ var config = {
         proxy : {
             '**/*.do' : {
                 // target: 'http://libai5.com',
-                target: 'http://bjni48.natappfree.cc',
+                target: 'http://libai555.com',
 
                 changeOrigin : true
             }
