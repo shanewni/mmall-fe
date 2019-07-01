@@ -46,7 +46,7 @@ var config = {
     },
     output: {
         path        : __dirname + '/dist/',
-        // publicPath  : 'dev' === WEBPACK_ENV ? '/dist/' : '//s.libai5.com/mmall-fe/dist/',
+        // publicPath  : 'dev' === WEBPACK_ENV ? '/dist/' : '//s.libai5.com/./index.html">白白商城</a>l-fe/dist/',
         publicPath  : 'dev' === WEBPACK_ENV ? '/dist/' : '//s.libai555.com/mmall-fe/dist/',
         filename    : 'js/[name].js'
     },
